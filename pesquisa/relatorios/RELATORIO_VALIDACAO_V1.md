@@ -1,9 +1,9 @@
 # Relatório de Validação V1 — Ctesíbio
 
-- Rodada: rodada-37297765602
-- Data UTC: 2026-10-05T10:38:30.733200+00:00
-- Registros lidos: **555**
-- Registros aproveitáveis estruturalmente: **555**
+- Rodada: rodada-38240160535
+- Data UTC: 2026-10-12T11:05:17.883062+00:00
+- Registros lidos: **559**
+- Registros aproveitáveis estruturalmente: **559**
 - Ocorrências: **0**
 
 ## Limite metodológico
@@ -12,14 +12,14 @@ Esta etapa valida integridade estrutural, metadados, URLs e duplicidade. Ela nã
 
 ## Classes preliminares
 
-- A: 49
-- B: 477
-- E: 29
+- A: 50
+- B: 478
+- E: 31
 
 ## Provedores
 
-- crossref: 410
-- openalex: 145
+- crossref: 408
+- openalex: 151
 
 ## Ocorrências
 

@@ -1,0 +1,13 @@
+{
+  "run_id": "20261012T110315Z",
+  "finished_at": "2026-10-12T11:05:17.811879+00:00",
+  "queries": 35,
+  "providers": [
+    "openalex",
+    "crossref",
+    "internet_archive"
+  ],
+  "unique_results": 559,
+  "errors": 0,
+  "max_results_per_provider_query": 20
+}
